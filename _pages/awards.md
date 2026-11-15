@@ -12,19 +12,23 @@ author_profile: true
 
 Recognized for contributions to servant leadership and service-oriented leadership development.
 
-<img src="/images/2024 Hall of Fame - All Honorees (5).png"
-     alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
-     width="450"
-     style="max-width: 100%; height: auto; border-radius: 8px;">
+<div style="text-align: center; margin: 24px 0;">
+  <img
+    src="/images/greenleaf-hall-of-fame-2024.png"
+    alt="2024 Greenleaf Servant-Leader Hall of Fame"
+    style="width: 500px; max-width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p><em>Greenleaf Servant-Leader Hall of Fame, 2024</em></p>
+</div>
 
-<p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
-
-<img src="/images/20241017102930.jpg"
-     alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
-     width="450"
-     style="max-width: 100%; height: auto; border-radius: 8px;">
-
-<p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
+<div style="text-align: center; margin: 24px 0;">
+  <img
+    src="/images/20241017102930.jpg"
+    alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
+    style="width: 450px; max-width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
+</div>
 
 ### John Martinson Honors College
 **Pillars of the Honors College — Second-Year Leadership Honorable Mention | 2025**
