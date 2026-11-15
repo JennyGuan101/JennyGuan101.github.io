@@ -12,7 +12,7 @@ author_profile: true
 
 Recognized for contributions to servant leadership and service-oriented leadership development.
 
-<img src="/images/2024 Hall of Fame - All Honorees  (5).png"
+<img src="/images/2024 Hall of Fame - All Honorees (5).png"
      alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
      width="450"
      style="max-width: 100%; height: auto; border-radius: 8px;">
