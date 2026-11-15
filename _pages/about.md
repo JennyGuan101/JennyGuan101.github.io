@@ -29,9 +29,9 @@ I am also the founder of the Leadership Enhancement Organization (LEO), an inter
 
 ## Selected Publications
 
-**Guan, J. (2026).** Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. *Leader to Leader*, 2026(119), 117–120.
+**Guan, J. (2026).** Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. *Leader to Leader*, 2026(119), 117–120. [DOI](https://doi.org/10.1002/ltl.70020)
 
-**Guan, J. (2026).** Learning Values-Based Leadership Through Practice. *The Journal of Values-Based Leadership*, 19(2), Article 18.
+**Guan, J. (2026).** Learning Values-Based Leadership Through Practice. *The Journal of Values-Based Leadership*, 19(2), Article 18. [DOI](https://doi.org/10.22543/1948-0733.1639)
 
 ## Research and Leadership Initiatives
 
