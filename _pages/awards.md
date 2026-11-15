@@ -19,7 +19,7 @@ Recognized for contributions to servant leadership and service-oriented leadersh
 
 <p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
 
-<img src="/images/Greenleaf-9009-089 (2).jpg"
+<img src="/images/20241017102930.jpg"
      alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
      width="450"
      style="max-width: 100%; height: auto; border-radius: 8px;">
