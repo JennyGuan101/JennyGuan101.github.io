@@ -16,7 +16,7 @@ Recognized for contributions to servant leadership and service-oriented leadersh
   <img
     src="/images/greenleaf-hall-of-fame-2024.png"
     alt="2024 Greenleaf Servant-Leader Hall of Fame"
-    style="width: 450px; max-width: 100%; height: auto; border-radius: 8px;"
+    style="width: 100%px; height: auto; border-radius: 8px;"
   >
   <p><em>Greenleaf Servant-Leader Hall of Fame, 2024</em></p>
 </div>
@@ -25,7 +25,7 @@ Recognized for contributions to servant leadership and service-oriented leadersh
   <img
     src="/images/20241017102930.jpg"
     alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
-    style="width: 450px; max-width: 100%; height: auto; border-radius: 8px;"
+    style="width: 100%; height: auto; border-radius: 8px;"
   >
   <p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
 </div>
@@ -39,7 +39,7 @@ Recognized for student leadership.
   <img
     src="/images/purdue-pillars-leadership-2025.jpg"
     alt="Pillars of the Honors College Second-Year Leadership Honorable Mention 2025"
-    style="width: 450px; max-width: 100%; height: auto; border-radius: 8px;"
+    style="width: 100%; height: auto; border-radius: 8px;"
   >
   <p><em>John Martinson Honors College, Purdue University | 2025</em></p>
 </div>
