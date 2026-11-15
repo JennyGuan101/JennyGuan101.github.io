@@ -3,7 +3,7 @@ title: "Servant Leadership: From Self to Others: A Cycle of Aesthetic Service"
 collection: publications
 category: manuscripts
 permalink: /publication/servant-leadership-from-self-to-others/
-date: 2026-01-01
+date: 2026-12-12
 venue: "Leader to Leader"
 citation: "Guan, J. (2026). Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. Leader to Leader, 2026(119), 117–120."
 ---
