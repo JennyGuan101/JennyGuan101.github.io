@@ -92,3 +92,14 @@ First-place team recognition for a Toyota-related analytics project.
     <em>Purdue University Table Tennis Team | 2025</em>
   </p>
 </div>
+---
+
+## Institutional Recognition & Features
+
+### John Martinson Honors College, Purdue University
+
+**Undergraduate Research Presenter & JMHC Student Spotlight**
+
+Featured by Purdue University's John Martinson Honors College in an official Instagram student spotlight highlighting my undergraduate research, servant leadership scholarship, cross-cultural collaborations, and academic publishing.
+
+[View Official Instagram Feature](https://www.instagram.com/p/DXHfHcvgNPc/?img_index=1)
