@@ -101,5 +101,15 @@ First-place team recognition for a Toyota-related analytics project.
 **Undergraduate Research Presenter & JMHC Student Spotlight**
 
 Featured by Purdue University's John Martinson Honors College in an official Instagram student spotlight highlighting my undergraduate research, servant leadership scholarship, cross-cultural collaborations, and academic publishing.
+<div style="margin: 24px 0;">
+  <img
+    src="/images/jmhc-student-spotlight.jpg"
+    alt="Jenny Guan featured in Purdue John Martinson Honors College Undergraduate Research Student Spotlight"
+    style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p style="text-align: center; font-size: 14px; color: #777;">
+    <em>John Martinson Honors College Undergraduate Research Student Spotlight</em>
+  </p>
+</div>
 
 [View Official Instagram Feature](https://www.instagram.com/p/DXHfHcvgNPc/?img_index=1)
