@@ -11,6 +11,7 @@ author_profile: true
 **Hall of Fame Youth Servant-Leader Exemplar | 2024**
 
 Recognized for contributions to servant leadership and service-oriented leadership development.
+
 <img src="/images/2024 Hall of Fame - All Honorees  (5).png"
      alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
      width="450"
@@ -18,17 +19,23 @@ Recognized for contributions to servant leadership and service-oriented leadersh
 
 <p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
 
+<img src="/images/Greenleaf-9009-089 (2).jpg"
+     alt="Greenleaf Hall of Fame Youth Servant-Leader Exemplar Award"
+     width="450"
+     style="max-width: 100%; height: auto; border-radius: 8px;">
+
+<p><em>Greenleaf Center for Servant Leadership, 2024</em></p>
+
+### John Martinson Honors College
+**Pillars of the Honors College — Second-Year Leadership Honorable Mention | 2025**
+
+Recognized for student leadership.
+
 ### DeVos Scholar
 **Principled Business Leadership Ambassadors | Purdue University**
 
 Selected to participate in a leadership development program emphasizing principled business leadership.
 
-### Hayes Leadership Coaching Institute
-**Leadership Coaching Program | 2026**
-
-Participated in leadership coaching and professional development.
-
----
 
 ## Academic Honors
 
@@ -42,10 +49,6 @@ Recognized for academic achievement at Purdue University.
 
 Received recognition and research support for an undergraduate scholarly project.
 
-### John Martinson Honors College
-**Pillars of the Honors College — Second-Year Leadership Honorable Mention | 2025**
-
-Recognized for student leadership.
 
 ---
 
