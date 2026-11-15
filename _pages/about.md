@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 **Leadership Researcher · Writer · Founder of LEO**
-
 I am an undergraduate student at Purdue University, majoring in Business Analytics and Information Management with a minor in Business Economics, and a member of the John Martinson Honors College.
 
 My research interests lie at the intersection of educational opportunity, mentorship, leadership development, organizational theory, and experiential learning.
