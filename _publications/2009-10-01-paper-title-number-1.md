@@ -1,14 +1,12 @@
----
-title: "Paper Title Number 1"
+title: "Servant Leadership: From Self to Others: A Cycle of Aesthetic Service"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/servant-leadership-from-self-to-others/
+date: 2026-01-01
+venue: 'Leader to Leader'
+citation: 'Guan, J. (2026). Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. Leader to Leader, 2026(119), 117–120.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Published in *Leader to Leader*, Issue 119, pp. 117–120.
+
+[Read the Article (DOI)](https://doi.org/10.1002/ltl.70020)
