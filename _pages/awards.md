@@ -74,10 +74,21 @@ First-place team recognition for a Toyota-related analytics project.
 <div style="margin: 24px 0;">
   <img
     src="/images/nctta-national-2025.jpg"
-    alt="National Collegiate Table Tennis Association National Championships 2025"
-    style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;"
+    alt="NCTTA National Championships 2025"
+    style="display: block; width: 100%; height: auto; border-radius: 8px;"
   >
   <p style="text-align: center; font-size: 14px; color: #777;">
     <em>NCTTA National Championships | 2025</em>
+  </p>
+</div>
+
+<div style="margin: 24px 0;">
+  <img
+    src="/images/nctta-team-2025.jpg"
+    alt="Purdue University Table Tennis Team at the 2025 NCTTA National Championships"
+    style="display: block; width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p style="text-align: center; font-size: 14px; color: #777;">
+    <em>Purdue University Table Tennis Team | 2025</em>
   </p>
 </div>
