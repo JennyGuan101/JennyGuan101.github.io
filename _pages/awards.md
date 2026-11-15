@@ -44,12 +44,6 @@ Recognized for student leadership.
   <p><em>John Martinson Honors College, Purdue University | 2025</em></p>
 </div>
 
-### DeVos Scholar
-**Principled Business Leadership Ambassadors | Purdue University**
-
-Selected to participate in a leadership development program emphasizing principled business leadership.
-
-
 ## Academic Honors
 
 ### Purdue University
@@ -58,7 +52,7 @@ Selected to participate in a leadership development program emphasizing principl
 Recognized for academic achievement at Purdue University.
 
 ### John Martinson Honors College
-**Honors Project Award & Scholarly Project Grant | $1,000**
+**Honors Project Award & Scholarly Project Grant
 
 Received recognition and research support for an undergraduate scholarly project.
 
@@ -77,3 +71,13 @@ First-place team recognition for a Toyota-related analytics project.
 
 ### National Collegiate Table Tennis Association
 **National Top 10 Team & Doubles | 2025**
+<div style="margin: 24px 0;">
+  <img
+    src="/images/nctta-national-2025.jpg"
+    alt="National Collegiate Table Tennis Association National Championships 2025"
+    style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p style="text-align: center; font-size: 14px; color: #777;">
+    <em>NCTTA National Championships | 2025</em>
+  </p>
+</div>
