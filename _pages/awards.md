@@ -35,6 +35,15 @@ Recognized for contributions to servant leadership and service-oriented leadersh
 
 Recognized for student leadership.
 
+<div style="text-align: center; margin: 24px 0;">
+  <img
+    src="/images/purdue-pillars-leadership-2025.jpg"
+    alt="Pillars of the Honors College Second-Year Leadership Honorable Mention 2025"
+    style="width: 450px; max-width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p><em>John Martinson Honors College, Purdue University | 2025</em></p>
+</div>
+
 ### DeVos Scholar
 **Principled Business Leadership Ambassadors | Purdue University**
 
