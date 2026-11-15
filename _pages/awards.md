@@ -16,7 +16,7 @@ Recognized for contributions to servant leadership and service-oriented leadersh
   <img
     src="/images/greenleaf-hall-of-fame-2024.png"
     alt="2024 Greenleaf Servant-Leader Hall of Fame"
-    style="width: 100%px; height: auto; border-radius: 8px;"
+    style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;"
   >
   <p><em>Greenleaf Servant-Leader Hall of Fame, 2024</em></p>
 </div>
