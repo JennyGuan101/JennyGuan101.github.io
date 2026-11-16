@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ### Purdue University
 **August 2023 – May 2027 (Expected)**
 
