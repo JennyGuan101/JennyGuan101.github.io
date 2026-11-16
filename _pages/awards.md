@@ -115,6 +115,7 @@ Featured by Purdue University's John Martinson Honors College in an official Ins
   <img
     src="/images/jmhc-student-spotlight.jpg"
     alt="Jenny Guan featured in Purdue John Martinson Honors College Undergraduate Research Student Spotlight"
+
     style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;"
   >
   <p style="text-align: center; font-size: 14px; color: #777;">
@@ -123,3 +124,11 @@ Featured by Purdue University's John Martinson Honors College in an official Ins
 </div>
 
 [View Official Instagram Feature](https://www.instagram.com/p/DXHfHcvgNPc/?img_index=1)
+
+### Purdue University — Undergraduate Student Blog
+
+**Student Feature | Purdue University**
+
+Featured in a Purdue University undergraduate student blog article highlighting my academic journey, research interests, and leadership experiences.
+
+[Read the University Feature](https://business.purdue.edu/undergraduate/student-experience/blog/posts/building-a-legacy-of-service.php))
