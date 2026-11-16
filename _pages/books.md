@@ -34,9 +34,13 @@ With contributions from a global team
 This volume examines leadership across cultural, organizational, and generational boundaries, bringing together perspectives from international scholars and practitioners.
 
 Foreword by Dr. Len Jessup, former President, UNLV and Claremont Graduate University
+
 Afterword by Julie Castro Abrams, CEO of How Women Lead and Managing Partner of How Women Invest
+
 Authored by Dr. Len Jessup, JeanAnn Nichols, Julie Castro Abrams, and Jenny Guan
+
 Edited by Dr. Jennifer Bay, with editorial advisor Sarah McArthur
+
 With contributions from a global team
 
 ### Volume III: Women and the Future of Leadership
@@ -46,9 +50,13 @@ With contributions from a global team
 This volume explores women's leadership experiences and perspectives on the future of leadership across different organizational and cultural contexts.
 
 Foreword by Julie Castro Abrams, CEO of How Women Lead and Managing Partner of How Women Invest
+
 Afterword by Kathy Miller, former Global Vice President of Operations
+
 Authored by Julie Castro Abrams, JeanAnn Nichols, Kathy Miller, and Jenny Guan
+
 Edited by Dr. Jennifer Bay, with editorial advisor Sarah McArthur
+
 With contributions from a global team
 
 ---
