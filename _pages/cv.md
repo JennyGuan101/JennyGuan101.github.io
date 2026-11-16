@@ -11,54 +11,105 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Purdue University Aug 2023 – May 2027 (Expected)
+B.S., Business Analytics & Information Management
+Minor in Business Economics
+John Martinson Honors College
+Dean's List and Semester Honors (Fall 2023–Spring 2026)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Tesla May 2026 – Present
+Collision Technical Training Intern (Business Strategy & Operations Analytics)
+⚫ Analyzed operational performance across 300+ Tesla Approved Bodyshops (TABs) using 
+Power BI, Excel, and Power Query to support nationwide training and quality initiatives.
+⚫ Contributed to Tesla 2026 TAB Star Rating System and independently designed and 
+iterated 15 interactive analytics platforms using HTML, CSS, and JavaScript, improving 
+efficiency by 90% and projecting annual savings of 600+ labor hours.
+⚫ Applied Six Sigma methodologies to enhance technician evaluation and audit 
+optimization.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Data Analysis & Research Tools: Power BI, Tableau, Excel, Power Query, DAX, SQL, Stata, 
+JMP Pro, NVivo, Qualtrics, Pandas, NumPy, scikit-learn, XGBoost, Six Sigma.
+Programming & Web Development: Python, R, Java, HTML, CSS, JavaScript. 
+Languages: Mandarin (Native), English (Professional working proficiency).
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+PEER-REVIEWED PUBLICATIONS (All published articles are open access.)
+Guan, J. (2027, in press). From Serving to Stewarding: John 13 and the Formation of Future 
+Servant-Stewards. Journal of Applied Christian Leadership.
+Guan, J. (2027, in press). The X-Point of Trust and Service: How Defining Moments Become 
+Leadership Legacy. Leader to Leader. https://doi.org/10.1002/ltl.70117.
+Guan, J. (2026, in press). Serve First: Building a LinkedIn-Based Community for Emerging 
+Servant Leaders. Purdue Journal of Service-Learning and International Engagement, 13.
+Guan, J. (2026). Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. Leader 
+to Leader, 2026(119), 117-120. https://doi.org/10.1002/ltl.70020.
+*Most-read article in its issue (as of November 2026).
+Guan, J. (2026). Learning Values-Based Leadership Through Practice. The Journal of ValuesBased Leadership, 19(2), Article 18. https://doi.org/10.22543/1948-0733.1639.
+*Most-read article in its issue (as of November 2026).
+MANUSCRIPTS UNDER REVIEW 
+Guan, J. Samurai Leadership as a Japanese Form of Servant Leadership. Manuscript under 
+review at Journal of Leadership Studies.
+Guan, J. Making Servant Leadership Visible. Manuscript under review at Servant Leadership: 
+Theory & Practice.
+Guan, J. LinkedIn as a Mobile Classroom: An Experiential Pedagogy for Honors Student 
+Leadership Development. Manuscript under review at Honors in Practice.
+Guan, J. The Delayed Meanings of Mentoring for Undergraduates. Manuscript under review at 
+Mentoring & Tutoring: Partnership in Learning.
+Guan, J. Servant leadership beyond generosity: Helping others grow. Manuscript under review 
+at International Journal of Servant-Leadership.
+Guan CV · Updated November 2026 · P. 2
+Guan, J. (lead author). Entrepreneurial leadership: Building stakeholder alignment through a 
+service-anchored MVP. Research proposal under review at Journal of Purdue 
+Undergraduate Research.
+BOOKS AND BOOK CHAPTERS 
+Multiple chapters and editorial contributions in The Servant Leadership 2.0 Series (co-authored 
+with Dr. Len Jessup, JeanAnn Nichols, and others).
+Volume I: A Systemic Aesthetic for Serving Self and Others.
+Volume II: X-Point: Leadership at the International Crossroads.
+Volume III: Women and the Future of Leadership.
+Guan, J. “Realizing Leadership Without a Title Through Servant Leadership." In Discovery 
+That Matters: Research, Innovation, and Impact from Purdue Honors Undergraduates. 
+Manuscript under review.
+Guan, J. (2026). “Ripples from a Giving Heart: Jenny Guan.” In D. Albaum (Ed.), The Giving 
+Edge: Why Putting Others First Creates Your Greatest Advantage (pp. 151–156). Market 
+Impact Press. ISBN-13: 979-8995423409.
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Leadership Enhancement Organization (LEO) Jan 2024 – Present
+Founder & Global Lead 
+⚫ Founded a global youth leadership organization with initiatives spanning China, the U.S., 
+Brazil, and other regions.
+⚫ Produced and published 150+ interviews and leadership content pieces, reaching 300,000+ 
+impressions within 14 days.
+⚫ Led the full process of initiating, soliciting contributions, editing, and publishing Leo’s 
+Fireside Chat on Servant Leadership (LeoChat) on LinkedIn, connecting students with 
+global leadership practitioners through digital service learning.
+⚫ Established mentorship relationships with former university presidents, Fortune 500 
+executives, and leadership scholars.
+⚫ Co-developing the LEO Digital Advisor with Silicon Valley engineers to automate 
+personalized leadership coaching.
+Servant Leadership 2.0 Global Publishing Project Jan 2024 – Present
+Core Organizer, Co-Author, Lead Editor
+⚫ Led the organization and editorial coordination of three leadership books, coordinating 50+ 
+contributors per volume.
+⚫ Worked with scholars, practitioners, and senior leaders across universities and 
+multinational organizations to drive collaboration and project delivery.
+⚫ Managed content structure, contributor assignments, and publishing communications with 
+Bloomsbury for three volumes (100,000+ words each).
+⚫ Committed to donating all future royalties from the three-volume series to Purdue 
+University to support the next generation of leadership learners
+Guan CV · Updated November 2026 · P. 5
+Larsen Leaders Academy, Purdue University Aug 2023 – Present
+Academy Member & Senior Peer Mentor
+⚫ Mentored first-year students through LAMP, supporting their transition to Purdue and 
+leadership development; promoted leadership development opportunities and student 
+engagement.
+⚫ Developed leadership and decision-making skills through experiential learning, team 
+challenges, and executive mentorship; earned the Larsen Challenge Coin (2025).
