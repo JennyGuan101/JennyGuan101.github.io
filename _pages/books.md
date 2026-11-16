@@ -18,9 +18,13 @@ The *Servant Leadership 2.0* series is a collaborative publishing initiative tha
 This volume explores servant leadership as a systemic approach to serving oneself and others, connecting leadership philosophy with personal development and organizational practice.
 
 Foreword by JeanAnn Nichols, Stanford Executive Mentor; Former VP & GM, Intel Corporation
+
 Afterword by Dr. Len Jessup, former President, UNLV and Claremont Graduate University
+
 Authored by JeanAnn Nichols, Timothy E. Sander, Todd Cherches, and Jenny Guan
+
 Edited by Dr. Jennifer Bay, with editorial advisor Sarah McArthur
+
 With contributions from a global team
 
 ### Volume II: X-Point: Leadership at the International Crossroads
