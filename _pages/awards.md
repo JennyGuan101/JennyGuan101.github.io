@@ -63,8 +63,18 @@ Received recognition and research support for an undergraduate scholarly project
 
 ### Purdue University
 **Quantitative Methods Project Showcase — First Place**
+First-place team recognition for a quantitative methods project developed in collaboration with Toyota.
 
-First-place team recognition for a Toyota-related analytics project.
+<div style="margin: 24px 0;">
+  <img
+    src="/images/qm-project-showcase.jpg"
+    alt="Purdue University Quantitative Methods Project Showcase First Place"
+    style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;"
+  >
+  <p style="text-align: center; font-size: 14px; color: #777;">
+    <em>Quantitative Methods Project Showcase — First Place | Purdue University</em>
+  </p>
+</div>
 
 ### National Collegiate Table Tennis Association
 **Women's Team Regional Champion | 2023–2025**
