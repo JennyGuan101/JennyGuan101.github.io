@@ -2,6 +2,7 @@
 title: "The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy"
 collection: publications
 category: manuscripts
+paperurl: 'https://jennyguan101.github.io/files/Guan_2026_X_Point_Trust_Service.pdf'
 permalink: /publication/x-point-trust-service/
 date: 2026-11-15
 venue: "Leader to Leader (In Press)"
