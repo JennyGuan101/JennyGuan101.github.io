@@ -1,3 +1,4 @@
+
 ---
 title: "The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy"
 collection: publications
@@ -14,5 +15,4 @@ citation: "Guan, J. (2026). The X-Point of Trust and Service: How Defining Momen
 **Full Text:** [Read PDF](/files/Guan_2026_X_Point_Trust_Service.pdf)
 
 **Published Article:** [Wiley Online Library](https://doi.org/10.1002/ltl.70117)
-
 
