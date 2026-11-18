@@ -18,3 +18,5 @@ I am particularly interested in how educational organizations, mentoring relatio
 My writing has appeared in *Leader to Leader* and *The Journal of Values-Based Leadership*, among other publications.
 
 I am also the founder of the Leadership Enhancement Organization (LEO), an international initiative connecting students, scholars, and experienced leaders through mentorship, dialogue, and collaborative learning.
+
+In addition, I serve as a core organizer and co-author,  of the Servant Leadership 2.0 series, a three-volume collaborative publishing initiative bringing together more than 100 contributors, including scholars, university leaders, executives, and emerging leaders.
