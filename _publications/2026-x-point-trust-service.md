@@ -5,12 +5,14 @@ category: manuscripts
 paperurl: 'https://jennyguan101.github.io/files/Guan_2026_X_Point_Trust_Service.pdf'
 permalink: /publication/x-point-trust-service/
 date: 2026-11-15
-venue: "Leader to Leader (In Press)"
-citation: "Guan, J. (in press). The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy. Leader to Leader. https://doi.org/10.1002/ltl.70117"
+venue: "Leader to Leader"
+citation: "Guan, J.. The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy. Leader to Leader. https://doi.org/10.1002/ltl.70117"
 ---
 
-**Status: In Press — Expected 2026**
+**Status: published**
 
-Accepted for publication in *Leader to Leader*.
+**Full Text:** [Read PDF](/files/Guan_2027_X_Point_Trust_Service.pdf)
 
-[View Article DOI](https://doi.org/10.1002/ltl.70117)
+**Published Article:** [Wiley Online Library](https://doi.org/10.1002/ltl.70117)
+
+
