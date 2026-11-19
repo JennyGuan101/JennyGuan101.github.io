@@ -2,7 +2,7 @@
 title: "Learning Values-Based Leadership Through Practice"
 collection: publications
 display_order: 2
-paperurl: "https://jennyguan101.github.io/files/Guan_Learning_Values_Based_Leadership.pdf"
+paperurl: "https://jennyguan101.github.io/files/Guan_2026_Learning_Values_Based_Leadership.pdf"
 category: manuscripts
 permalink: /publication/learning-values-based-leadership/
 date: 2026-07-06
