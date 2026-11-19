@@ -1,6 +1,7 @@
 ---
 title: "Learning Values-Based Leadership Through Practice"
 collection: publications
+display_order: 2
 category: manuscripts
 permalink: /publication/learning-values-based-leadership/
 date: 2026-07-06
