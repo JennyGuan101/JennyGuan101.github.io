@@ -1,6 +1,7 @@
 ---
 title: "Servant Leadership: From Self to Others: A Cycle of Aesthetic Service"
 collection: publications
+display_order: 3
 category: manuscripts
 permalink: /publication/servant-leadership-from-self-to-others/
 date: 2025-12-12
