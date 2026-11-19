@@ -1,6 +1,7 @@
 ---
 title: "Serve First: Building a LinkedIn-Based Community for Emerging Servant Leaders"
 collection: publications
+display_order: 4
 category: manuscripts
 permalink: /publication/serve-first/
 date: 2026-11-15
