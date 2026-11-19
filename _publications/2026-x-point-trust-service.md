@@ -1,6 +1,7 @@
 ---
 title: "The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy"
 collection: publications
+display_order: 1
 category: manuscripts
 permalink: /publication/x-point-trust-service/
 date: 2026-11-17
