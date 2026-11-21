@@ -127,8 +127,6 @@ Featured by Purdue University's John Martinson Honors College in an official Ins
 
 ### Purdue University — Undergraduate Student Blog
 
-**Student Feature | Purdue University**
-
 Featured in a Purdue University undergraduate student blog article highlighting my academic journey, research interests, and leadership experiences.
 
 [Read the University Feature](https://business.purdue.edu/undergraduate/student-experience/blog/posts/building-a-legacy-of-service.php))
