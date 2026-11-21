@@ -130,6 +130,7 @@ Featured by Purdue University's John Martinson Honors College in an official Ins
 Featured in a Purdue University undergraduate student blog article highlighting my academic journey, research interests, and leadership experiences.
 
 [Read the University Feature](https://business.purdue.edu/undergraduate/student-experience/blog/posts/building-a-legacy-of-service.php))
+
 ### The Giving Edge — Market Impact Press
 
 Featured in Chapter 18, “Ripples from a Giving Heart,” of *The Giving Edge: Why Putting Others First Creates Your Greatest Advantage* (Market Impact Press, June 9, 2026). The chapter highlights my personal experiences with generosity and explores how early acts of giving can shape values-based leadership, servant leadership, and a lifelong commitment to serving others.
