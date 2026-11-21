@@ -52,9 +52,9 @@ Recognized for student leadership.
 Recognized for academic achievement at Purdue University.
 
 ### John Martinson Honors College
-**Honors Project Award & Scholarly Project Grant**
+**Honors Project Grant**
 
-Received recognition and research support for an undergraduate scholarly project.
+Received research support for an undergraduate scholarly project.
 
 
 ---
