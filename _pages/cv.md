@@ -52,19 +52,15 @@ redirect_from:
 
 *All published articles are open access.*
 
-1. Guan, J. (2027, in press). From Serving to Stewarding: John 13 and the Formation of Future Servant-Stewards. *Journal of Applied Christian Leadership*.
+1. Guan, J. (2026). The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy. *Leader to Leader*.  
+   https://doi.org/10.1002/ltl.70117
 
-2. Guan, J. (2027, in press). The X-Point of Trust and Service: How Defining Moments Become Leadership Legacy. *Leader to Leader*.  
-   [https://doi.org/10.1002/ltl.70117](https://doi.org/10.1002/ltl.70117)
-
-3. Guan, J. (2026, in press). Serve First: Building a LinkedIn-Based Community for Emerging Servant Leaders. *Purdue Journal of Service-Learning and International Engagement*, 13.
-
-4. Guan, J. (2026). Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. *Leader to Leader, 2026*(119), 117–120.  
-   [https://doi.org/10.1002/ltl.70020](https://doi.org/10.1002/ltl.70020)  
+2. Guan, J. (2026). Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. *Leader to Leader, 2026*(119), 117–120.  
+   https://doi.org/10.1002/ltl.70020 
    *Most-read article in its issue (as of November 2026).*
 
-5. Guan, J. (2026). Learning Values-Based Leadership Through Practice. *The Journal of Values-Based Leadership, 19*(2), Article 18.  
-   [https://doi.org/10.22543/1948-0733.1639](https://doi.org/10.22543/1948-0733.1639)  
+3. Guan, J. (2026). Learning Values-Based Leadership Through Practice. *The Journal of Values-Based Leadership, 19*(2), Article 18.  
+   https://doi.org/10.22543/1948-0733.1639  
    *Most-read article in its issue (as of November 2026).*
 
 ### Manuscripts Under Review
@@ -77,15 +73,13 @@ redirect_from:
 
 4. Guan, J. *The Delayed Meanings of Mentoring for Undergraduates*. Manuscript under review at *Mentoring & Tutoring: Partnership in Learning*.
 
-5. Guan, J. *Servant Leadership Beyond Generosity: Helping Others Grow*. Manuscript under review at *International Journal of Servant-Leadership*.
-
-6. Guan, J. (lead author). *Entrepreneurial Leadership: Building Stakeholder Alignment Through a Service-Anchored MVP*. Research proposal under review at *Journal of Purdue Undergraduate Research*.
+5. Guan, J. (lead author). *Entrepreneurial Leadership: Building Stakeholder Alignment Through a Service-Anchored MVP*. Research proposal under review at *Journal of Purdue Undergraduate Research*.
 
 ### Books and Book Chapters
 
 **The Servant Leadership 2.0 Series**
 
-Multiple chapters and editorial contributions in *The Servant Leadership 2.0 Series* (co-authored with Dr. Len Jessup, JeanAnn Nichols, and others).
+Multiple chapters in *The Servant Leadership 2.0 Series* (co-authored with Dr. Len Jessup, JeanAnn Nichols, and others).
 
 - **Volume I:** *A Systemic Aesthetic for Serving Self and Others*.
 - **Volume II:** *X-Point: Leadership at the International Crossroads*.
@@ -93,10 +87,8 @@ Multiple chapters and editorial contributions in *The Servant Leadership 2.0 Ser
 
 **Additional Book Chapters**
 
-1. Guan, J. "Realizing Leadership Without a Title Through Servant Leadership." In *Discovery That Matters: Research, Innovation, and Impact from Purdue Honors Undergraduates*. Manuscript under review.
+Guan, J. "Realizing Leadership Without a Title Through Servant Leadership." In *Discovery That Matters: Research, Innovation, and Impact from Purdue Honors Undergraduates*. Manuscript under review.
 
-2. Guan, J. (2026). "Ripples from a Giving Heart: Jenny Guan." In D. Albaum (Ed.), *The Giving Edge: Why Putting Others First Creates Your Greatest Advantage* (pp. 151–156). Market Impact Press.  
-   **ISBN-13:** 979-8995423409.
 
 ---
 
@@ -114,9 +106,9 @@ Multiple chapters and editorial contributions in *The Servant Leadership 2.0 Ser
 
 ### Servant Leadership 2.0 Global Publishing Project
 **January 2024 – Present**  
-**Core Organizer, Co-Author, Lead Editor**
+**Core Organizer and Co-Author**
 
-- Led the organization and editorial coordination of three leadership books, coordinating 50+ contributors per volume.
+- Led the organization of three leadership books, coordinating 50+ contributors per volume.
 - Worked with scholars, practitioners, and senior leaders across universities and multinational organizations to drive collaboration and project delivery.
 - Managed content structure, contributor assignments, and publishing communications with Bloomsbury for three volumes (100,000+ words each).
 - Committed to donating all future royalties from the three-volume series to Purdue University to support the next generation of leadership learners.
