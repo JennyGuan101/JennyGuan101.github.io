@@ -133,16 +133,6 @@ Featured in a Purdue University undergraduate student blog article highlighting 
 
 ### The Giving Edge — Market Impact Press
 
-Featured in Chapter 18, “Ripples from a Giving Heart,” of *The Giving Edge: Why Putting Others First Creates Your Greatest Advantage* (Market Impact Press, June 9, 2026). The chapter highlights my personal experiences with generosity and explores how early acts of giving can shape values-based leadership, servant leadership, and a lifelong commitment to serving others.
-
-**ISBN-13:** 979-8995423416
-
-[View Published Book on Amazon](https://www.amazon.com/dp/B0H31S8WK3)
-
-<h3>The Giving Edge — Market Impact Press</h3>
-
-<p><strong>Featured in Chapter 18 | Ripples from a Giving Heart</strong></p>
-
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
   <img src="/images/the-giving-edge-cover.jpg"
        alt="The Giving Edge book cover"
