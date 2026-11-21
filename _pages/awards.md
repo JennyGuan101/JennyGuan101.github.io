@@ -132,3 +132,30 @@ Featured by Purdue University's John Martinson Honors College in an official Ins
 Featured in a Purdue University undergraduate student blog article highlighting my academic journey, research interests, and leadership experiences.
 
 [Read the University Feature](https://business.purdue.edu/undergraduate/student-experience/blog/posts/building-a-legacy-of-service.php))
+### The Giving Edge — Market Impact Press
+
+**Featured in Chapter 18 | Ripples from a Giving Heart**
+
+Featured in Chapter 18, “Ripples from a Giving Heart,” of *The Giving Edge: Why Putting Others First Creates Your Greatest Advantage* (Market Impact Press, June 9, 2026). The chapter highlights my personal experiences with generosity and explores how early acts of giving can shape values-based leadership, servant leadership, and a lifelong commitment to serving others.
+
+**ISBN-13:** 979-8995423416
+
+[View Published Book on Amazon](https://www.amazon.com/dp/B0H31S8WK3)
+
+<h3>The Giving Edge — Market Impact Press</h3>
+
+<p><strong>Featured in Chapter 18 | Ripples from a Giving Heart</strong></p>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
+  <img src="/images/the-giving-edge-cover.jpg"
+       alt="The Giving Edge book cover"
+       style="width: 200px; height: auto; border-radius: 4px;">
+
+  <img src="/images/the-giving-edge-chapter18.jpg"
+       alt="Ripples from a Giving Heart, Chapter 18 feature"
+       style="width: 300px; height: auto; border-radius: 4px;">
+</div>
+
+<p>Featured in Chapter 18, “Ripples from a Giving Heart,” of <em>The Giving Edge: Why Putting Others First Creates Your Greatest Advantage</em> (Market Impact Press, June 9, 2026). The chapter highlights my personal experiences with generosity and explores how early acts of giving can shape values-based leadership, servant leadership, and a lifelong commitment to serving others.</p>
+
+<p><strong>ISBN-13:</strong> 979-8995423416</p>
