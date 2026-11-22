@@ -158,7 +158,7 @@ Featured in the 2025 Daniels 20 Under 20 student recognition publication by the 
 Invited to present my Honors Scholarly Project at the Daniels Legacies and Leaders Event hosted by the Daniels School of Business at Purdue University, a selective event showcasing student research to industry partners, alumni, and donors.
 
 <div style="text-align: center;">
-  <img src="https://jennyguan101.github.io/images/daniels-legacies-leaders-presentation.jpg"
+  <img src="/images/daniels-legacies-leaders-presentation.jpeg"
        alt="Daniels Legacies and Leaders Research Presentation"
        style="width: 100%; max-width: 700px; height: auto; border-radius: 6px;">
   <p><em>Presenting my Honors Scholarly Project at the Daniels Legacies and Leaders Event | Purdue University, 2025</em></p>
