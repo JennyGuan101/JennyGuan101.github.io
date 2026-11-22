@@ -63,8 +63,6 @@ With contributions from a global team
 
 ## Published Book Chapters
 
-## Manuscripts Under Review
-
 ### Realizing Leadership Without a Title Through Servant Leadership
 
 **Author: Jenny Guan**
