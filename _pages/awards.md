@@ -146,3 +146,11 @@ Featured in a Purdue University undergraduate student blog article highlighting 
 <p>Featured in Chapter 18, “Ripples from a Giving Heart,” of <em>The Giving Edge: Why Putting Others First Creates Your Greatest Advantage</em> (Market Impact Press, June 9, 2026). The chapter highlights my personal experiences with generosity and explores how early acts of giving can shape values-based leadership, servant leadership, and a lifelong commitment to serving others.</p>
 
 <p><strong>ISBN-13:</strong> 979-8995423416</p>
+
+### 2025 Daniels 20 Under 20
+
+**Daniels School of Business, Purdue University | 2025**
+
+Featured in the *2025 Daniels 20 Under 20* student recognition publication, highlighting my academic journey, leadership initiatives, and contributions to servant leadership through the Leadership Enhancement Organization (LEO).
+
+**[Read Feature (PDF)](/files/2025_Daniels_20_Under_20_Jenny_Guan.pdf)**
