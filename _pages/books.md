@@ -63,14 +63,6 @@ With contributions from a global team
 
 ## Published Book Chapters
 
-### Ripples from a Giving Heart: Jenny Guan
-
-**Guan, J. (2026).** Ripples from a Giving Heart: Jenny Guan. In D. Albaum (Ed.), *The Giving Edge: Why Putting Others First Creates Your Greatest Advantage* (pp. 151–156). Market Impact Press.
-
-ISBN-13: 979-8995423409
-
----
-
 ## Manuscripts Under Review
 
 ### Realizing Leadership Without a Title Through Servant Leadership
