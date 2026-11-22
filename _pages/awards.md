@@ -149,8 +149,6 @@ Featured in a Purdue University undergraduate student blog article highlighting 
 
 ### 2025 Daniels 20 Under 20
 
-**Daniels School of Business, Purdue University | 2025**
+Featured in the 2025 Daniels 20 Under 20 student recognition publication by the Daniels School of Business at Purdue University, highlighting my academic journey, leadership initiatives, and contributions to servant leadership through the Leadership Enhancement Organization (LEO).
 
-Featured in the *2025 Daniels 20 Under 20* student recognition publication, highlighting my academic journey, leadership initiatives, and contributions to servant leadership through the Leadership Enhancement Organization (LEO).
-
-**[Read Feature (PDF)](/files/2025_Daniels_20_Under_20_Jenny_Guan.pdf)**
+**[Read Feature (PDF)](/files/2025_Daniels_20_Under_20_Jenny_Guan.pdf)
