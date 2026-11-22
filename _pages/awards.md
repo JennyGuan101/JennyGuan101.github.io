@@ -152,3 +152,9 @@ Featured in a Purdue University undergraduate student blog article highlighting 
 Featured in the 2025 Daniels 20 Under 20 student recognition publication by the Daniels School of Business at Purdue University, highlighting my academic journey, leadership initiatives, and contributions to servant leadership through the Leadership Enhancement Organization (LEO).
 
 [Read Feature (PDF)](/files/2025_Daniels_20_Under_20_Jenny_Guan.pdf)
+
+### Daniels Legacies and Leaders — Invited Research Presentation
+
+Invited to present my Honors Scholarly Project at the Daniels Legacies and Leaders Event hosted by the Daniels School of Business at Purdue University, a selective event showcasing student research to industry partners, alumni, and donors.
+
+![Daniels Legacies and Leaders Invited Research Presentation](/images/daniels-legacies-leaders-presentation.jpg)
