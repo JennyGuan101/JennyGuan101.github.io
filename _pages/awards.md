@@ -129,7 +129,7 @@ Featured by Purdue University's John Martinson Honors College in an official Ins
 
 Featured in a Purdue University undergraduate student blog article highlighting my academic journey, research interests, and leadership experiences.
 
-[Read the University Feature](https://business.purdue.edu/undergraduate/student-experience/blog/posts/building-a-legacy-of-service.php))
+[Read the University Feature](https://business.purdue.edu/undergraduate/student-experience/blog/posts/building-a-legacy-of-service.php)
 
 ### The Giving Edge — Market Impact Press
 
@@ -151,4 +151,4 @@ Featured in a Purdue University undergraduate student blog article highlighting 
 
 Featured in the 2025 Daniels 20 Under 20 student recognition publication by the Daniels School of Business at Purdue University, highlighting my academic journey, leadership initiatives, and contributions to servant leadership through the Leadership Enhancement Organization (LEO).
 
-**[Read Feature (PDF)](/files/2025_Daniels_20_Under_20_Jenny_Guan.pdf)
+[Read Feature (PDF)](/files/2025_Daniels_20_Under_20_Jenny_Guan.pdf)
