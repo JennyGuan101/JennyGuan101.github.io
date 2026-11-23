@@ -13,7 +13,7 @@ The *Servant Leadership 2.0* series is a collaborative publishing initiative tha
 
 ### Volume I: A Systemic Aesthetic for Serving Self and Others
 
-**Status: Manuscript submitted to publisher**
+**Status: Book Proposal Under Review at Bloomsbury**
 
 This volume explores servant leadership as a systemic approach to serving oneself and others, connecting leadership philosophy with personal development and organizational practice.
 
@@ -29,7 +29,7 @@ With contributions from a global team
 
 ### Volume II: X-Point: Leadership at the International Crossroads
 
-**Status: Manuscript submitted to publisher**
+**Status: Book Proposal Under Review at Bloomsbury**
 
 This volume examines leadership across cultural, organizational, and generational boundaries, bringing together perspectives from international scholars and practitioners.
 
@@ -45,7 +45,7 @@ With contributions from a global team
 
 ### Volume III: Women and the Future of Leadership
 
-**Status: Manuscript submitted to publisher**
+**Status: Book Proposal Under Review at Bloomsbury**
 
 This volume explores women's leadership experiences and perspectives on the future of leadership across different organizational and cultural contexts.
 
@@ -61,7 +61,7 @@ With contributions from a global team
 
 ---
 
-## Published Book Chapters
+## Book Chapters Under Review
 
 ### Realizing Leadership Without a Title Through Servant Leadership
 
