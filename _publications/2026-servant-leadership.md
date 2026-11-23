@@ -10,7 +10,7 @@ venue: "Leader to Leader"
 citation: "Guan, J. (2026). Servant Leadership: From Self to Others: A Cycle of Aesthetic Service. Leader to Leader, 2026(119), 117–120."
 ---
 
-Published in *Leader to Leader*, Issue 119, pp. 117–120.
+Publication date: December 12, 2025
 
 **Full Text:** [Download Paper](/files/Guan_2025_Servant_Leadership_From_Self_to_Others.pdf)
 
