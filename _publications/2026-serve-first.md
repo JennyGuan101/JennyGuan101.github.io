@@ -2,7 +2,7 @@
 title: "Serve First: Building a LinkedIn-Based Community for Emerging Servant Leaders"
 collection: publications
 display_order: 4
-category: manuscripts
+category: forthcoming
 permalink: /publication/serve-first/
 date: 2026-11-15
 venue: "Purdue Journal of Service-Learning and International Engagement (In Press)"
