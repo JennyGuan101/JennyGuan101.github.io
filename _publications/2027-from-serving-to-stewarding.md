@@ -2,7 +2,7 @@
 title: "From Serving to Stewarding: John 13 and the Formation of Future Servant-Stewards"
 collection: publications
 display_order: 5
-category: manuscripts
+category: forthcoming
 permalink: /publication/from-serving-to-stewarding/
 date: 2026-11-15
 venue: "Journal of Applied Christian Leadership (In Press)"
